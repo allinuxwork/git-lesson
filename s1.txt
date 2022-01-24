@@ -1,1 +1,1 @@
-branch my_first_branch
+branch my_first_branch origin commit
