@@ -1,1 +1,2 @@
 branch my_first_branch origin commit
+Проверка команды git ls-files
